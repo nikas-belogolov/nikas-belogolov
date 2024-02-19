@@ -6,9 +6,7 @@
 
 ### My Projects
 
-#### FruitMap
-
-#### Garden Planner
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikas-belogolov&repo=FruitMap)](https://github.com/nikas-belogolov/FruitMap)
 
 ### :hammer_and_wrench: Languages and Tools:
 
@@ -40,6 +38,8 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikas-belogolov)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikas-belogolov&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+[![Nikas' LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=belogolovnikas)](https://leetcode.com/belogolovnikas/)
 
 <!--
 **nikas-belogolov/nikas-belogolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
