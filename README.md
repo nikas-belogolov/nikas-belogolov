@@ -8,6 +8,13 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikas-belogolov&repo=FruitMap)](https://github.com/nikas-belogolov/FruitMap)
 
+Future Projects:
+- Garden Planner in node.js
+- Network Packet Sniffer in C
+- Compression Utility in C
+- Simple Calculator interpreter in C
+- Trading simulator with Actor/Critic Reinforcement learning AI model
+
 ### :hammer_and_wrench: Languages and Tools:
 
 #### Languages
