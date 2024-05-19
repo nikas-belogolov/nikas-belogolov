@@ -6,7 +6,8 @@
 
 ### My Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikas-belogolov&repo=FruitMap)](https://github.com/nikas-belogolov/FruitMap)
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikas-belogolov&repo=FruitMap)](https://github.com/nikas-belogolov/FruitMap)-->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikas-belogolov&repo=plant-disease-identification-ML)](https://github.com/nikas-belogolov/plant-disease-identification-ML)
 
 Future Projects:
 - Garden Planner in Node.js
