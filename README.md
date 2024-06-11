@@ -15,7 +15,7 @@ Future Projects:
 - Garden Planner in Node.js
 - Network Packet Sniffer in C
 - Compression Utility in C
-- Simple Machine Learning in C
+- Simple Machine Learning in C++
 - AI Image classifier in python
 - Trading simulator with Actor/Critic Reinforcement learning AI model
 
