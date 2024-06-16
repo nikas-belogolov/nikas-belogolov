@@ -80,7 +80,7 @@ Future Projects:
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikas-belogolov)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikas-belogolov&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikas-belogolov&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=jupyter%20notebook" alt="ovi" />
 
 [![Nikas' LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=belogolovnikas)](https://leetcode.com/belogolovnikas/)
 
