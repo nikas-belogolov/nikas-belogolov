@@ -13,6 +13,7 @@
 
 Future Projects:
 - Garden Planner in Node.js
+- Fruit Trees Map in Node.js
 - Network Packet Sniffer in C
 - Compression Utility in C
 - Simple Machine Learning in C++
@@ -25,6 +26,17 @@ Courses, Challenges and War Games Completed:
 - FreeCodeCamp:
   - Legacy Responsive Web Design Challenges
 - SQLBolt
+
+Courses, Challenges and War Games to be Completed:
+- OverTheWire
+  - Leviathan
+  - Natas
+  - Krypton
+- FreeCodeCamp:
+  - Legacy JavaScript Algorithms and Data Structures Certification
+- Coursera:
+  - Supervised Machine Learning: Regression and Classification
+  - Advanced Learning Algorithms
 
 ### :hammer_and_wrench: Languages and Tools:
 
