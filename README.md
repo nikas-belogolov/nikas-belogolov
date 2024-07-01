@@ -19,6 +19,13 @@ Future Projects:
 - AI Image classifier in python
 - Trading simulator with Actor/Critic Reinforcement learning AI model
 
+Courses, Challenges and War Games Completed:
+- OverTheWire:
+  - Bandit War Game
+- FreeCodeCamp:
+  - Legacy Responsive Web Design Challenges
+- SQLBolt
+
 ### :hammer_and_wrench: Languages and Tools:
 
 #### Languages
