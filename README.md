@@ -2,7 +2,13 @@
 
 ### About Me
 
+### :fire: My Stats :
 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikas-belogolov)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikas-belogolov&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=jupyter%20notebook" alt="ovi" />
+
+[![Nikas' LeetCode stats](https://leetcard.jacoblin.cool/belogolovnikas)](https://leetcode.com/belogolovnikas/)
 
 ### My Projects
 
@@ -49,20 +55,11 @@ Courses, Challenges and War Games to be Completed:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### Frameworks
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-#### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Tools
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-#### Machine Learning
-
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -95,13 +92,7 @@ Courses, Challenges and War Games to be Completed:
 -->
 
 
-### :fire: My Stats :
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikas-belogolov)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikas-belogolov&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=jupyter%20notebook" alt="ovi" />
-
-[![Nikas' LeetCode stats](https://leetcard.jacoblin.cool/belogolovnikas)](https://leetcode.com/belogolovnikas/)
 
 <!--
 **nikas-belogolov/nikas-belogolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
