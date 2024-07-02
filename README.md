@@ -101,7 +101,7 @@ Courses, Challenges and War Games to be Completed:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikas-belogolov&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=jupyter%20notebook" alt="ovi" />
 
-[![Nikas' LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=belogolovnikas)](https://leetcode.com/belogolovnikas/)
+[![Nikas' LeetCode stats](https://leetcard.jacoblin.cool/belogolovnikas)](https://leetcode.com/belogolovnikas/)
 
 <!--
 **nikas-belogolov/nikas-belogolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
