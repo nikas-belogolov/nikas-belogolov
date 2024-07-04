@@ -1,21 +1,20 @@
-# Hi 👋, I'm Nikas
+# Hi there, I'm Nikas 👋
 
-### About Me
+## About Me
 
-### :fire: My Stats :
+I'm a passionate developer with a keen interest in building web applications, AI & Machine Learning, and gardening. I enjoy learning new technologies and applying them to solve real-world problems.
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikas-belogolov)](https://github.com/anuraghazra/github-readme-stats)-->
+## Connect with Me
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikas-belogolov&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=jupyter%20notebook" alt="ovi" />
+- [Linkedin](https://www.linkedin.com/in/nikas-belogolov-6a6aa31a6/)
+- [HackThisSite](https://www.hackthissite.org/user/view/_Klenov_/)
+- [FreeCodeCamp](https://www.freecodecamp.org/nikas777)
+- [LeetCode](https://leetcode.com/belogolovnikas/)
 
-[![Nikas' LeetCode stats](https://leetcard.jacoblin.cool/belogolovnikas)](https://leetcode.com/belogolovnikas/)
+## Projects
 
-### My Projects
-
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikas-belogolov&repo=FruitMap)](https://github.com/nikas-belogolov/FruitMap)-->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikas-belogolov&repo=plant-disease-identification-ML)](https://github.com/nikas-belogolov/plant-disease-identification-ML)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikas-belogolov&repo=terminal-chess)](https://github.com/nikas-belogolov/terminal-chess)
-
 
 Future Projects:
 - Garden Planner in Node.js
@@ -26,6 +25,14 @@ Future Projects:
 - AI Image classifier in python
 - Trading simulator with Actor/Critic Reinforcement learning AI model
 
+## :fire: My Stats :
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikas-belogolov)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikas-belogolov&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=jupyter%20notebook" alt="ovi" />
+
+[![Nikas' LeetCode stats](https://leetcard.jacoblin.cool/belogolovnikas)](https://leetcode.com/belogolovnikas/)
+
 Courses, Challenges and War Games Completed:
 - OverTheWire:
   - Bandit War Game
@@ -33,20 +40,9 @@ Courses, Challenges and War Games Completed:
   - Legacy Responsive Web Design Challenges
 - SQLBolt
 
-Courses, Challenges and War Games to be Completed:
-- OverTheWire
-  - Leviathan
-  - Natas
-  - Krypton
-- FreeCodeCamp:
-  - Legacy JavaScript Algorithms and Data Structures Certification
-- Coursera:
-  - Supervised Machine Learning: Regression and Classification
-  - Advanced Learning Algorithms
 
-### :hammer_and_wrench: Languages and Tools:
 
-#### Languages
+## Tech I Use :hammer_and_wrench:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -73,26 +69,6 @@ Courses, Challenges and War Games to be Completed:
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<!--
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
--->
-
-
-
 
 <!--
 **nikas-belogolov/nikas-belogolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
