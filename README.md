@@ -10,6 +10,7 @@ I'm a passionate developer with a keen interest in building web applications, AI
 - [HackThisSite](https://www.hackthissite.org/user/view/_Klenov_/)
 - [FreeCodeCamp](https://www.freecodecamp.org/nikas777)
 - [LeetCode](https://leetcode.com/belogolovnikas/)
+- [CodeWars](https://www.codewars.com/users/anonymous675)
 
 ## Projects
 
