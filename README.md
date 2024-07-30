@@ -18,13 +18,20 @@ I'm a passionate developer with a keen interest in building web applications, AI
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikas-belogolov&repo=terminal-chess)](https://github.com/nikas-belogolov/terminal-chess)
 
 Future Projects:
+
+### Web
 - Garden Planner in Node.js
 - Fruit Trees Map in Node.js
+
+### Machine Learning
+
+- Simple machine learning in C/C++
+- Trading with machine learning in Python
+
+### Other
+
 - Network Packet Sniffer in C
 - Compression Utility in C
-- Simple Machine Learning in C++
-- AI Image classifier in python
-- Trading simulator with Actor/Critic Reinforcement learning AI model
 
 ## :fire: My Stats :
 
