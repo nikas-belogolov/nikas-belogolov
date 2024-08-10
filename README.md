@@ -17,6 +17,7 @@ I'm a passionate developer with a keen interest in building web applications, AI
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikas-belogolov&repo=plant-disease-identification-ML)](https://github.com/nikas-belogolov/plant-disease-identification-ML)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikas-belogolov&repo=terminal-chess)](https://github.com/nikas-belogolov/terminal-chess)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikas-belogolov&repo=FruitFindr)](https://github.com/nikas-belogolov/FruitFindr)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikas-belogolov&repo=2048.c)](https://github.com/nikas-belogolov/2048.c)
 
 Future Projects:
 
