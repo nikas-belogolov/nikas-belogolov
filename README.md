@@ -2,14 +2,52 @@
 <div id="user-content-toc" align="center">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1>Hi 👋, I'm Nikas</h1>
-      <h2 align="center">Exploring AI, embedded systems, and web technologies to solve real-world problems.</h2>
+      <h1>Hi, I'm Nikas Belogolov</h1>
+      <!-- <h2 align="center">Exploring AI, embedded systems, and web technologies to solve real-world problems.</h2> -->
     </summary>
   </ul>
 </div>
 
-<br />
+I am a Full-Stack Engineer specializing in building intelligent, scalable applications. Currently, I'm focused on the intersection of **Cognitive Science and AI** to optimize how we learn.
 
+### 🛠️ What I'm working on
+* **AI Spaced Repetion**: A Spaced Repetition web app integrated with AI to automate card creation and make learning fun. 
+    * *Built with:* TypeScript, TanStack Start, AI Vercel SDK.
+* **Tanstack/ai**: Contributing pull requests and issues.
+
+### Past projects
+* **[Leak Detection System for Irrigation Systems](https://github.com/nikas-belogolov/leak-detection-system)**: A complete leak detection alert system for irrigation networks.
+    * *Built with:* Next.js, C (ESP32), Socket.io, RabbitMQ, MongoDB, Protocol Buffers, PyTorch & Lightning, Pandas, Optuna. 
+* **[esp-ble-prov](https://github.com/nikas-belogolov/esp-ble-prov)**: A library for configuring wifi credentials for ESP32 through WebBluetooth.
+    * *Built with:* TypeScript, WebBluetooth, Protobuf.js, AES cryptography library.
+* **[Terminal Chess](https://github.com/nikas-belogolov/terminal-chess)**: A pure C implementation of the game of chess in the terminal.
+    * *Built with:* C, CMake
+* **[Plant Disease Identification](https://github.com/nikas-belogolov/plant-disease-identification-ML)**: High school project aiming at identifying plant diseases using TensorFlow Keras with Shapley values to explain model outputs
+    * *Built with:* TensorFlow, Keras, shap, scikit-learn, seaborn, pandas, numpy.
+---
+
+### 💻 Technical Toolbelt
+
+| Category           | Technologies                                                                         |
+|--------------------|--------------------------------------------------------------------------------------|
+| **Frontend** | React.js, TypeScript                                                                       |
+| **Backend/DB** | Node.js, Tanstack Start, MongoDB                                                         |
+| **AI/ML** | Python, PyTorch, PyTorch Lightning, Keras, MatPlotLib, Seaborn, Scikit-learn                  |
+| **Infrastructure** | Linux, Git, Docker, AWS, CloudFlare                                                  |
+| **Embedded** | C, ESP-32 (Expressif), MQTT, Bluetooth |
+
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikas-belogolov&show_icons=true&locale=en" alt="nikas-belogolov" /></p>
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikas-belogolov/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belogolovnikas@email.com)
+
+
+<!--
 - 🔭 I’m currently working on **leak detection system for irrigation systems**
 - 🌱 I’m currently learning:
   - Natural Language Processing
@@ -77,14 +115,9 @@
 
 [![Nikas' LeetCode stats](https://leetcard.jacoblin.cool/belogolovnikas)](https://leetcode.com/belogolovnikas/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikas-belogolov&show_icons=true&locale=en" alt="nikas-belogolov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikas-belogolov&" alt="nikas-belogolov" /></p>
 
-
-
-
-<!--
 **nikas-belogolov/nikas-belogolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
