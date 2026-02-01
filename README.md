@@ -11,9 +11,9 @@
 I am a Full-Stack Engineer specializing in building intelligent, scalable applications. Currently, I'm focused on the intersection of **Cognitive Science and AI** to optimize how we learn.
 
 ### 🛠️ What I'm working on
-* **AI Spaced Repetion**: A Spaced Repetition web app integrated with AI to automate card creation and make learning fun. 
+* **[AI Spaced Repetion](https://ai-spaced-repetition.belogolovnikas.workers.dev)**: A Spaced Repetition web app integrated with AI to automate card creation and make learning fun. 
     * *Built with:* TypeScript, TanStack Start, AI Vercel SDK.
-* **Tanstack/ai**: Contributing pull requests and issues.
+* [`@tanstack/ai`](https://github.com/TanStack/ai): Contributing pull requests and issues.
 
 ### Past projects
 * **[Leak Detection System for Irrigation Systems](https://github.com/nikas-belogolov/leak-detection-system)**: A complete leak detection alert system for irrigation networks.
