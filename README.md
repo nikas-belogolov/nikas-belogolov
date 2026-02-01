@@ -3,7 +3,7 @@
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>Hi, I'm Nikas Belogolov</h1>
-      <!-- <h2 align="center">Exploring AI, embedded systems, and web technologies to solve real-world problems.</h2> -->
+      <img src=".github/profile/stats.svg" alt="Nikas Belogolov's GitHub stats" />
     </summary>
   </ul>
 </div>
@@ -35,10 +35,6 @@ I am a Full-Stack Engineer specializing in building intelligent, scalable applic
 | **AI/ML** | Python, PyTorch, PyTorch Lightning, Keras, MatPlotLib, Seaborn, Scikit-learn                  |
 | **Infrastructure** | Linux, Git, Docker, AWS, CloudFlare                                                  |
 | **Embedded** | C, ESP-32 (Expressif), MQTT, Bluetooth |
-
----
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikas-belogolov&show_icons=true&locale=en" alt="nikas-belogolov" /></p>
 
 ---
 
