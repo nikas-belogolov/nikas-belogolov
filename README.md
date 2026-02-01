@@ -3,6 +3,7 @@
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>Hi, I'm Nikas Belogolov</h1>
+      <br />
       <img src=".github/profile/stats.svg" alt="Nikas Belogolov's GitHub stats" />
     </summary>
   </ul>
