@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-I'm a motivated student with strong skills in full-stack development, Machine Learning and IoT. Seeking opportunities to contribute to innovative projects and expand my skills in software engineering.
+I'm a motivated student with strong skills in full-stack development, Machine Learning and IoT. Seeking opportunities to contribute to innovative projects and expand my skills in software engineering. [My Portfolio](https://portfolio.belogolovnikas.workers.dev/)
 
 ### 🛠️ What I'm working on
 * **[AI Spaced Repetion](https://ai-spaced-repetition.belogolovnikas.workers.dev)**: A Spaced Repetition web app integrated with AI to automate card creation and make learning fun. 
